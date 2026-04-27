@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "W0WHyAQv-_qxN1ZNJN4Q0"
+uri = "file://artifacts/level-up-renovations/public/images/hero.png"
+type = "image"
+title = "Modern Brooklyn renovated kitchen"
+
+[[generated]]
+id = "Q_gJpkQ9dedTOnx8pPY0e"
+uri = "file://artifacts/level-up-renovations/public/images/gallery-1.png"
+type = "image"
+title = "Renovated living room"
+
+[[generated]]
+id = "RvLs45oMw2I39IEERQgZr"
+uri = "file://artifacts/level-up-renovations/public/images/gallery-2.png"
+type = "image"
+title = "Modern bathroom renovation"
+
+[[generated]]
+id = "rJ2YnkYbQu9bGXSYj0gqg"
+uri = "file://artifacts/level-up-renovations/public/images/gallery-3.png"
+type = "image"
+title = "Hardwood floor installation"
+
+[[generated]]
+id = "HJLfamgTTKqXZy-pMyKip"
+uri = "file://artifacts/level-up-renovations/public/images/gallery-4.png"
+type = "image"
+title = "Skim coated walls"
+
+[[generated]]
+id = "WpLDIKdoRX58jBc72qErd"
+uri = "file://artifacts/level-up-renovations/public/images/why-us.png"
+type = "image"
+title = "Contractor tools and blueprints"
